@@ -1,0 +1,14 @@
+{
+  "name": "fundamentos_NodeJs",
+  "version": "1.0.0",
+  "description": "Projeto para estudar os fundamentos do Node.js",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "keywords": ["nodejs", "server", "fundamentos"],
+  "author": "Seu Nome",
+  "license": "ISC"
+}
